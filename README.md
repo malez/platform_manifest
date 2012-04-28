@@ -1,2 +1,0 @@
-plateform_manifest
-==================
