@@ -314,5 +314,5 @@
   <project path="packages/apps/AppWidgetPicker" name="AOKP/packages_apps_AppWidgetPicker" remote="gh" revision="ics" />
 
   <project path="platform_manifest" name="7eme-compagnie/platform_manifest" remote="gh" revision="ics" />
-  <project path="kernel/samsung/smdk4210" name="AOKP-SGS2/android_kernel_samsung_smdk4210" remote="git" revision="ics" />
+  <project path="kernel/samsung/smdk4210" name="7eme-compagnie/android_kernel_samsung_smdk4210" remote="git" revision="ics" />
 </manifest>
