@@ -219,7 +219,7 @@
   <project path="hardware/qcom/gps" name="AOKP/hardware_qcom_gps" remote="gh" revision="ics" />
   <project path="hardware/qcom/media" name="AOKP/android_hardware_qcom_media" remote="gh" revision="ics" />
   <project path="hardware/ril" name="AOKP/android_hardware_ril" remote="gh" revision="ics" />
-  <project path="hardware/samsung" name="7eme-compagnie/android_hardware_samsung" remote="git" revision="ics" />
+  <project path="hardware/samsung" name="7eme-compagnie/android_hardware_samsung" remote="gh" revision="ics" />
   <project path="hardware/ti/omap3" name="platform/hardware/ti/omap3" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="hardware/ti/wlan" name="AOKP/android_hardware_ti_wlan" remote="gh" revision="ics" />
@@ -238,7 +238,7 @@
   <project path="packages/apps/DeskClock" name="AOKP/packages_apps_DeskClock" remote="gh" revision="ics" />
   <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" remote="gh" revision="ics"/>
   <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
-  <project path="packages/apps/FileExplorer" name="7eme-compagnie/FileExplorer" remote="git" revision="master" />
+  <project path="packages/apps/FileExplorer" name="7eme-compagnie/FileExplorer" remote="gh" revision="master" />
   <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
@@ -292,7 +292,7 @@
   <project path="system/vold" name="AOKP/system_vold" remote="gh" revision="ics" />
 
   <project path="vendor/samsung" name="koush/proprietary_vendor_samsung" remote="gh" revision="ics" />
-  <project path="vendor/aokp" name="7eme-compagnie/vendor_aokp" remote="git" revision="ics" />
+  <project path="vendor/aokp" name="7eme-compagnie/vendor_aokp" remote="gh" revision="ics" />
   <project path="vendor/moto" name="AOKP/vendor_moto" remote="gh" revision="ics" />
   <project path="vendor/hp/tenderloin" name="AOKP/vendor_hp_tenderloin" remote="gh" revision="aokp" />
   <project path="vendor/htc" name="AOKP/vendor_htc" remote="gh" revision="ics" />
@@ -309,10 +309,10 @@
   <project path="system/su" name="AOKP/android_system_su" remote="gh" revision="ics" />
   <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" remote="gh" revision="ics" />
   <project path="packages/apps/ROMControl" name="AOKP/packages_apps_ROMControl" remote="gh" revision="ics" />
-  <project path="packages/apps/Trebuchet" name="7eme-compagnie/android_packages_apps_Trebuchet" remote="git" revision="ics" />
+  <project path="packages/apps/Trebuchet" name="7eme-compagnie/android_packages_apps_Trebuchet" remote="gh" revision="ics" />
   <project path="packages/apps/GanOptimizer" name="CyanogenMod/android_packages_apps_GanOptimizer" remote="gh" revision="gb-release-7.2" />
   <project path="packages/apps/AppWidgetPicker" name="AOKP/packages_apps_AppWidgetPicker" remote="gh" revision="ics" />
 
   <project path="platform_manifest" name="7eme-compagnie/platform_manifest" remote="gh" revision="ics" />
-  <project path="kernel/samsung/smdk4210" name="7eme-compagnie/android_kernel_samsung_smdk4210" remote="git" revision="ics" />
+  <project path="kernel/samsung/smdk4210" name="7eme-compagnie/android_kernel_samsung_smdk4210" remote="gh" revision="ics" />
 </manifest>
