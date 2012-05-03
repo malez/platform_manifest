@@ -312,6 +312,8 @@
   <project path="packages/apps/Trebuchet" name="7eme-compagnie/android_packages_apps_Trebuchet" remote="gh" revision="ics" />
   <project path="packages/apps/GanOptimizer" name="CyanogenMod/android_packages_apps_GanOptimizer" remote="gh" revision="gb-release-7.2" />
   <project path="packages/apps/AppWidgetPicker" name="AOKP/packages_apps_AppWidgetPicker" remote="gh" revision="ics" />
+  <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" remote="gh" revision="ics"/>
+
 
   <project path="platform_manifest" name="7eme-compagnie/platform_manifest" remote="gh" revision="ics" />
   <project path="kernel/samsung/smdk4210" name="7eme-compagnie/android_kernel_samsung_smdk4210" remote="gh" revision="ics" />
