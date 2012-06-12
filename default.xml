@@ -329,5 +329,5 @@
 
 
   <project path="platform_manifest" name="7eme-compagnie/platform_manifest" remote="gh" revision="ics" />
-  <project path="kernel/samsung/smdk4210" name="7eme-compagnie/android_kernel_samsung_smdk4210" remote="gh" revision="ics" />
+  <project path="kernel/samsung/smdk4210" name="malez/android_kernel_samsung_smdk4210" remote="gh" revision="ics" />
 </manifest>
